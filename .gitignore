@@ -1,0 +1,20 @@
+/FINAL_VID
+/New folder
+/processing-java.exe
+/processing.exe
+*.png
+*.jpg
+*.mov
+*.mp4
+*.tmp
+/tools
+/lib
+/libraries
+/java
+/core
+*.exe
+*.ini
+/modes
+*.autosave
+*.svg
+*.gif
